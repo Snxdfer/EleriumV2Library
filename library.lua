@@ -1380,8 +1380,10 @@ function library:AddWindow(title, options)
 						local shortkeys = { -- thanks to stroketon for helping me out with this
 							RightControl = 'RightCtrl',
 							LeftControl = 'LeftCtrl',
+							LeftAlt = 'LeftAlt',
 							LeftShift = 'LShift',
 							RightShift = 'RShift',
+							RightAlt = 'RAlt',
 							MouseButton1 = "Mouse1",
 							MouseButton2 = "Mouse2"
 						}
